@@ -1,5 +1,3 @@
-# mocha-chai-poc
-Mocha tests and chai assertion samples
-### Commands
+##Commands
   * npm install
   * npm test
